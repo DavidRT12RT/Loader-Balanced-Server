@@ -1,0 +1,17 @@
+{
+    "0":{
+        "estatus":"online",
+        "ip":"192.168.100.21",
+        "nombre":"server1"
+    },
+    "1":{
+        "estatus":"online",
+        "ip":"192.168.100.22",
+        "nombre":"server2"
+    },
+    "2":{
+        "estatus":"online",
+        "ip":"192.168.100.23",
+        "nombre":"server3"
+    }
+}
